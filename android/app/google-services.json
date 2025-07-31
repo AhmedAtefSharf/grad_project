@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277205083772",
+    "project_id": "fasih-b42cd",
+    "storage_bucket": "fasih-b42cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277205083772:android:b0a59df5cd1367bb3d8bf9",
+        "android_client_info": {
+          "package_name": "com.example.grad_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQSXGOBRqmFRFtD46P6Vz7t9Dn7AWQtyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
